@@ -11,7 +11,7 @@ struct ContentView: View {
     
     @State private var checkValue = 0.0
     @State private var numberOfPeople = 2
-    @State private var tipPercentage = 20
+    @State fileprivate var tipPercentage = 20
     
     let tipPercentages = [10, 15, 20, 25, 30]
     
