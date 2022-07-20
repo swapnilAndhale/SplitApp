@@ -13,6 +13,7 @@
 		552D538F28745B6400D0A50F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 552D538E28745B6400D0A50F /* Preview Assets.xcassets */; };
 		5551BC2728843E4200390544 /* Circle_icon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5551BC2628843E4200390544 /* Circle_icon.swift */; };
 		55AB781F288196EA00195507 /* ButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55AB781E288196EA00195507 /* ButtonView.swift */; };
+		55CBCA06288820C6000C276D /* Lists_SwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55CBCA05288820C6000C276D /* Lists_SwiftUI.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		552D538E28745B6400D0A50F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		5551BC2628843E4200390544 /* Circle_icon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Circle_icon.swift; sourceTree = "<group>"; };
 		55AB781E288196EA00195507 /* ButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonView.swift; sourceTree = "<group>"; };
+		55CBCA05288820C6000C276D /* Lists_SwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lists_SwiftUI.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				552D538928745B6300D0A50F /* ContentView.swift */,
 				55AB781E288196EA00195507 /* ButtonView.swift */,
 				5551BC2628843E4200390544 /* Circle_icon.swift */,
+				55CBCA05288820C6000C276D /* Lists_SwiftUI.swift */,
 				552D538B28745B6400D0A50F /* Assets.xcassets */,
 				552D538D28745B6400D0A50F /* Preview Content */,
 			);
@@ -147,6 +150,7 @@
 				552D538828745B6300D0A50F /* StarterApp.swift in Sources */,
 				5551BC2728843E4200390544 /* Circle_icon.swift in Sources */,
 				55AB781F288196EA00195507 /* ButtonView.swift in Sources */,
+				55CBCA06288820C6000C276D /* Lists_SwiftUI.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
