@@ -15,6 +15,7 @@
 		55AB781F288196EA00195507 /* ButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55AB781E288196EA00195507 /* ButtonView.swift */; };
 		55CBCA06288820C6000C276D /* Lists_SwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55CBCA05288820C6000C276D /* Lists_SwiftUI.swift */; };
 		55EA36E02892B3D7004970E5 /* onDeleteView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55EA36DF2892B3D7004970E5 /* onDeleteView.swift */; };
+		55EA36E22892BBC2004970E5 /* UserDefaultsAndAppStorage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55EA36E12892BBC2004970E5 /* UserDefaultsAndAppStorage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		55AB781E288196EA00195507 /* ButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonView.swift; sourceTree = "<group>"; };
 		55CBCA05288820C6000C276D /* Lists_SwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lists_SwiftUI.swift; sourceTree = "<group>"; };
 		55EA36DF2892B3D7004970E5 /* onDeleteView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = onDeleteView.swift; sourceTree = "<group>"; };
+		55EA36E12892BBC2004970E5 /* UserDefaultsAndAppStorage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserDefaultsAndAppStorage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 				5551BC2628843E4200390544 /* Circle_icon.swift */,
 				55CBCA05288820C6000C276D /* Lists_SwiftUI.swift */,
 				55EA36DF2892B3D7004970E5 /* onDeleteView.swift */,
+				55EA36E12892BBC2004970E5 /* UserDefaultsAndAppStorage.swift */,
 				552D538B28745B6400D0A50F /* Assets.xcassets */,
 				552D538D28745B6400D0A50F /* Preview Content */,
 			);
@@ -149,6 +152,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				55EA36E22892BBC2004970E5 /* UserDefaultsAndAppStorage.swift in Sources */,
 				552D538A28745B6300D0A50F /* ContentView.swift in Sources */,
 				552D538828745B6300D0A50F /* StarterApp.swift in Sources */,
 				5551BC2728843E4200390544 /* Circle_icon.swift in Sources */,
